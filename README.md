@@ -20,4 +20,4 @@ A modern and interactive web interface designed to demonstrate clean coding prac
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/frontend-ui-project.git
+   git clone https://github.com/SaraHussein4/eLearning-Template.git
